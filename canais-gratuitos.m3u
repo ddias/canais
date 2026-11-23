@@ -1,10 +1,4 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=2000000,RESOLUTION=1280x720
-https://45ea5aa4b933eece04c04cef9780baab.sv-nl-02-cloudfront-net.lat/stream/3d45ba9b88ce104b9621e70cc6aa753c/error.txt
-#EXT-X-STREAM-INF:BANDWIDTH=4000000,RESOLUTION=1920x1080
-https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/tcpipoca/index.m3u8
-#EXTM3U
 #EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/ae.png" group-title="Documentários",A&E (Fonte 1)
 https://eitvplay.appmembers.com.br/event60/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 #EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/ae.png" group-title="Documentários",A&E (Fonte 2)
