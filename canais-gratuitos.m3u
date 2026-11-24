@@ -1,719 +1,2181 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/ae.png" group-title="Documentários",A&E (Fonte 3)
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=74481194bf32774e0cb44a1d71d6cc19:4bfd25bc9419f1c71e3ee8e6bf5ccf2a
-https://video39.mais.uol.com.br/live/267.mpd
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/ae.png" group-title="Documentários" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",A&E (Fonte 4)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/aee/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/adultswim.png" group-title="Variedades" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",Adult Swim (Fonte 3)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/adultswim/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/amc.png" group-title="Filmes e Séries" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",AMC (Fonte 3)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/amc/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/animalplanet.png" group-title="Documentários" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",Animal Planet (Fonte 3)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/animalplanet/index.m3u8
-#EXTINF:-1 tvg-logo="https://mondrian.claro.com.br/channels/inverse/band.png" group-title="TV Aberta",Band (Fonte 2)
-https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/index.m3u8
-#EXTINF:-1 tvg-logo="https://mondrian.claro.com.br/channels/inverse/band.png" group-title="TV Aberta",Band (Fonte 3)
-https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://mondrian.claro.com.br/channels/inverse/band.png" group-title="TV Aberta",Band (Fonte 4)
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3b43a1fbcf57cfe04109fbc1b381ac79:a23de064124dfddeaf3c23490d96328b
-https://video41.mais.uol.com.br/live/3361.mpd
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/cartoonnetwork.png" group-title="Infantil" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",Cartoon Network (Fonte 3)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/cartoonnetwork/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/cnnbrasil.png" group-title="Notícias",CNN Brasil (Fonte 2)
-https://amg01391-sbtinfast-amg01391c4-lg-br-4597.playouts.now.amagi.tv/playlist/amg01391-addigital-cnnbrasil-lgbr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/cnnbrasil.png" group-title="Notícias" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",CNN Brasil (Fonte 4)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/cnnbrasil/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/cnnbrasil.png" group-title="Notícias",CNN Brasil (Fonte 5)
-https://d25usgadhphvwi.cloudfront.net/hls/stv-plus1920x1080/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://mondrian.claro.com.br/channels/inverse/cnn-brasil-money.png" group-title="Notícias",CNN Brasil Money
-https://amg01391-amg01391c57-amgplt0026.playout.now3.amagi.tv/playlist/amg01391-amg01391c57-amgplt0026/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://mondrian.claro.com.br/channels/inverse/ge-tv.png" group-title="Esportes",GE TV (Fonte 1)
-https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 tvg-logo="https://mondrian.claro.com.br/channels/inverse/ge-tv.png" group-title="Esportes",GE TV (Fonte 2)
-https://proxylinkurl.wored85282.workers.dev/https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://mondrian.claro.com.br/channels/inverse/ge-tv.png" group-title="Esportes",GE TV (Fonte 3)
-https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://mondrian.claro.com.br/channels/inverse/ge-tv.png" group-title="Esportes",GE TV (Fonte 4)
-https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8
-#EXTINF:-1 tvg-logo="https://mondrian.claro.com.br/channels/inverse/ge-tv.png" group-title="Esportes" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",GE TV (Fonte 6)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/getv/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/globonews.png" group-title="Notícias" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",GloboNews (Fonte 2)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/globonews/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/globonovelas.prev.png" group-title="Filmes e Séries" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",Globoplay Novelas (Fonte 2)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/globoplaynovelas/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/gnt.png" group-title="Variedades" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",GNT (Fonte 2)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/gnt/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/history.png" group-title="Documentários",History (Fonte 3)
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f7cb42541fbc6043627e4ee025c18300:24843d82b079bbefb73100b887493400
-https://video46.mais.uol.com.br/live/281.mpd
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/history.png" group-title="Documentários",History (Fonte 4)
-http://170.83.16.50/HISTORY/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/history.png" group-title="Documentários" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",History (Fonte 5)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/history/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/history2.png" group-title="Documentários" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",History 2 (Fonte 3)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/history2/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogo.org/brazil/jovem-pan-news-br.png" group-title="Notícias",Jovem Pan News (Fonte 2)
-https://amg01391-sbtinfast-amg01391c3-lg-us-8995.playouts.now.amagi.tv/playlist/amg01391-addigital-jovempan-lgus/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogo.org/brazil/jovem-pan-news-br.png" group-title="Notícias",Jovem Pan News (Fonte 3)
-https://amg01391-amg01391c3-tcl-spain-5038.playouts.now.amagi.tv/playlist1080-p.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogo.org/brazil/jovem-pan-news-br.png" group-title="Notícias" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",Jovem Pan News (Fonte 4)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/jovempannews/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogo.org/brazil/jovem-pan-news-br.png" group-title="Notícias",Jovem Pan News (Fonte 5)
-http://186.219.52.187/jp_news/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/megapix.png" group-title="Filmes e Séries" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",Megapix (Fonte 2)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/megapix/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/multishow.png" group-title="Variedades" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",Multishow (Fonte 2)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/multishow/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/premiere.png" group-title="Esportes" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",Premiere 2 (Fonte 2)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/premiere2/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/premiere.png" group-title="Esportes" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",Premiere 3 (Fonte 2)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/premiere3/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/premiere.png" group-title="Esportes" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",Premiere 4 (Fonte 2)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/premiere4/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/premiere.png" group-title="Esportes" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",Premiere 5 (Fonte 2)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/premiere5/index.m3u8
-#EXTINF:-1 tvg-logo="https://mondrian.claro.com.br/channels/inverse/premiere.png" group-title="Esportes" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",Premiere 6
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/premiere6/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/premiere.png" group-title="Esportes" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",Premiere 7
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/premiere7/index.m3u8
-#EXTINF:-1 tvg-logo="https://mondrian.claro.com.br/channels/inverse/premiere.png" group-title="Esportes" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",Premiere 8
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/premiere8/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/premiere.png" group-title="Esportes" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",Premiere Clubes (Fonte 2)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/premiereclubes/index.m3u8
-#EXTINF:-1 tvg-logo="https://mondrian.claro.com.br/channels/inverse/sbt.png" group-title="TV Aberta",SBT (Fonte 2)
-https://aovivo.maissbt.com/indexMobile.m3u8
-#EXTINF:-1 tvg-logo="https://mondrian.claro.com.br/channels/inverse/sbt.png" group-title="TV Aberta",SBT (Fonte 3)
-https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://mondrian.claro.com.br/channels/inverse/sbt-news.png" group-title="Notícias",SBT News (Fonte 1)
-https://sbtnews.maissbt.com/index.m3u8
-#EXTINF:-1 tvg-logo="https://mondrian.claro.com.br/channels/inverse/sbt-news.png" group-title="Notícias",SBT News (Fonte 2)
-https://sbtnews.maissbt.com/3.m3u8
-#EXTINF:-1 tvg-logo="https://mondrian.claro.com.br/channels/inverse/sbt-news.png" group-title="Notícias",SBT News (Fonte 3)
-https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/sonychannel.png" group-title="Filmes e Séries",Sony Channel (Fonte 3)
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5e8567bf0707bf910f611e5cf2ef352f:8b30ddee60bb9fe6653f1eb8c9b85d5d
-https://video37.mais.uol.com.br/live/279.mpd
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/sonychannel.png" group-title="Filmes e Séries",Sony Channel (Fonte 4)
-http://170.83.16.50/SONY_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/sonychannel.png" group-title="Filmes e Séries" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",Sony Channel (Fonte 5)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/sonychannel/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/sportv.png" group-title="Esportes" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",SporTV (Fonte 2)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/sportv/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/sportv2.png" group-title="Esportes" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",SporTV 2 (Fonte 2)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/sportv2/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/sportv3.png" group-title="Esportes" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",SporTV 3 (Fonte 2)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/sportv3/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/off.png" group-title="Esportes" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",Canal OFF (Fonte 2)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/canaloff/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/telecineaction.png" group-title="Filmes e Séries" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",Telecine Action (Fonte 2)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/tcaction/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/telecinepipoca.png" group-title="Filmes e Séries" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",Telecine Pipoca (Fonte 2)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/tcpipoca/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/telecinepremium.png" group-title="Filmes e Séries" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",Telecine Premium (Fonte 2)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/tcpremium/index.m3u8
-#EXTINF:-1 tvg-logo="https://mondrian.claro.com.br/channels/inverse/tv-brasil.png" group-title="TV Aberta",TV Brasil
-https://tvbrasil-stream.ebc.com.br/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/warnerchannel.png" group-title="Filmes e Séries",Warner (Fonte 4)
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ff12e06c66327cd35b99013b38dd4f84:08320e9a44185e55074ac435d8c9a856
-https://video45.mais.uol.com.br/live/277.mpd
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/warnerchannel.png" group-title="Filmes e Séries" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",Warner (Fonte 5)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/warner/index.m3u8
-#EXTINF:-1 tvg-logo="https://d5pgibznjcs0s.cloudfront.net/46d92cf6-4807-45c6-9bfd-b38f80288c86/en/images/logo_full.png" group-title="Variedades",IMPD
-https://igrejamundial.nuvemplay.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/globosp.png" group-title="TV Aberta" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",Globo SP (Fonte 4)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/globosp/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/cartoonito.png" group-title="Infantil" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",Cartoonito (Fonte 3)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/cartoonito/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/cinemax.png" group-title="Filmes e Séries" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",Cinemax (Fonte 4)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/cinemax/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/discoverychannel.png" group-title="Documentários" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",Discovery Channel (Fonte 3)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/discoverychannel/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/discoverykids.png" group-title="Infantil" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",Discovery Kids (Fonte 3)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/discoverykids/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/discoverytheater.png" group-title="Documentários" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",Discovery Theater (Fonte 3)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/discoverytheater/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/espn.png" group-title="Esportes",ESPN (Fonte 2)
-http://181.78.197.59:8000/play/a07z/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/espn.png" group-title="Esportes" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",ESPN (Fonte 4)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/espn/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/espn2.png" group-title="Esportes" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",ESPN 2 (Fonte 3)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/espn2/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/espn4.png" group-title="Esportes",ESPN 4 (Fonte 2)
-http://181.78.197.59:8000/play/a07n/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/espn4.png" group-title="Esportes" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",ESPN 4 (Fonte 4)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/espn4/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/espn6.png" group-title="Esportes" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",ESPN 6 (Fonte 3)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/espn6/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/hbo.png" group-title="Filmes e Séries" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",HBO (Fonte 3)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/hbo/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/hbo2.png" group-title="Filmes e Séries" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",HBO2 (Fonte 4)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/hbo2/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/hbofamily.png" group-title="Filmes e Séries" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",HBO Family (Fonte 4)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/hbofamily/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/hbomundi.png" group-title="Filmes e Séries" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",HBO Mundi (Fonte 4)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/hbomundi/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/hboplus.png" group-title="Filmes e Séries" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",HBO Plus (Fonte 4)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/hboplus/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/hbopop.png" group-title="Filmes e Séries" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",HBO Pop (Fonte 4)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/hbopop/index.m3u8
-#EXTINF:-1 tvg-logo="https://mondrian.claro.com.br/channels/inverse/hbo-signature.png" group-title="Filmes e Séries" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",HBO Signature (Fonte 3)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/hbosignature/index.m3u8
-#EXTINF:-1 tvg-logo="https://mondrian.claro.com.br/channels/inverse/hbo-xtreme.png" group-title="Filmes e Séries" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",HBO Xtreme (Fonte 3)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/hboxtreme/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/space.png" group-title="Filmes e Séries" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",Space (Fonte 3)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/space/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/tnt.png" group-title="Filmes e Séries" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",TNT (Fonte 4)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/tnt/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/tntseries.png" group-title="Filmes e Séries" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",TNT Séries (Fonte 3)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/tntseries/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/universaltv.png" group-title="Filmes e Séries" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",Universal TV (Fonte 2)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/universaltv/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/discoveryturbo.png" group-title="Documentários" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",Discovery Turbo (Fonte 3)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/discoveryturbo/index.m3u8
-#EXTINF:-1 tvg-logo="https://mondrian.claro.com.br/channels/inverse/usa.png" group-title="Filmes e Séries" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",USA Network
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/usa/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/telecinefun.png" group-title="Filmes e Séries" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",Telecine Fun (Fonte 2)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/tcfun/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/telecinecult.png" group-title="Filmes e Séries" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",Telecine Cult (Fonte 2)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/tccult/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/telecinetouch.png" group-title="Filmes e Séries" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",Telecine Touch (Fonte 2)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/tctouch/index.m3u8
-#EXTINF:-1 tvg-logo="https://mondrian.claro.com.br/channels/inverse/tooncast.png" group-title="Infantil",Tooncast (Fonte 2)
-http://170.83.16.50:80/TOONCAST/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/tntnovelas.png" group-title="Filmes e Séries" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",TNT Novelas (Fonte 3)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/tntnovelas/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/discoveryscience.png" group-title="Documentários" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",Discovery Science (Fonte 3)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/discoveryscience/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/axn.png" group-title="Filmes e Séries",AXN (Fonte 2)
-http://170.83.49.66:8083/AXNHD/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/axn.png" group-title="Filmes e Séries",AXN (Fonte 4)
-http://170.83.16.50/AXN/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/axn.png" group-title="Filmes e Séries" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",AXN (Fonte 5)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/axn/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/bandnews.png" group-title="Notícias" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",Band News (Fonte 3)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/bandnews/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/bandsports.png" group-title="Esportes",BAND SPORTS HD (Fonte 2)
-http://170.83.49.66:8083/BANDSPORTSHD/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/bandsports.png" group-title="Esportes",BAND SPORTS HD (Fonte 4)
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=74481194bf32774e0cb44a1d71d6cc19:4bfd25bc9419f1c71e3ee8e6bf5ccf2a
-https://video41.mais.uol.com.br/live/290.mpd
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/bandsports.png" group-title="Esportes",BAND SPORTS HD (Fonte 5)
-http://170.83.16.50/BAND_SPORTS/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/bandsports.png" group-title="Esportes" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",BAND SPORTS HD (Fonte 6)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/bandsports/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogo.org/brazil/rede-tv-br.png" group-title="TV Aberta" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",RedeTV! (Fonte 3)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/redetv/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogo.org/brazil/rede-tv-br.png" group-title="TV Aberta",RedeTV! (Fonte 4)
-https://tv01.zas.media:1936/redetvparana/redetvparana/chunklist_w1074634538.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogo.org/brazil/rede-tv-br.png" group-title="TV Aberta",RedeTV! (Fonte 5)
-http://170.83.16.50/REDE_TV/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/cultura.png" group-title="TV Aberta" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",TV Cultura (Fonte 4)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/tvcultura/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/cultura.png" group-title="TV Aberta",TV Cultura (Fonte 5)
-https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/cultura.png" group-title="TV Aberta",TV Cultura (Fonte 6)
-https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogo.org/brazil/terraviva-br.png" group-title="Variedades",Terra Viva (Fonte 2)
-https://9ada494d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfVXBseW5rLU5ld2NvX0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://mondrian.claro.com.br/channels/inverse/woohoo.png" group-title="Esportes",Woohoo (Fonte 2)
-http://170.83.16.50/WOOHOO/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/espn3.png" group-title="Esportes",ESPN 3 (Fonte 2)
-http://181.78.197.59:8000/play/a081/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/espn3.png" group-title="Esportes" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",ESPN 3 (Fonte 4)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/espn3/index.m3u8
-#EXTINF:-1 tvg-logo="https://mondrian.claro.com.br/channels/inverse/tv-gazeta.png" group-title="TV Aberta",TV Gazeta
-https://video08.logicahost.com.br/tvc21/tvc21/chunklist_w930922724.m3u8
-#EXTINF:-1 tvg-logo="https://mondrian.claro.com.br/channels/inverse/recordnews.png" group-title="Notícias" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",Record News (Fonte 3)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/recordnews/index.m3u8
-#EXTINF:-1 tvg-logo="https://mondrian.claro.com.br/channels/inverse/recordnews.png" group-title="Notícias",Record News (Fonte 5)
-https://rnw-rn-samsungtvplus.otteravision.com/rnw/rn/rnw_rn.m3u8
-#EXTINF:-1 tvg-logo="https://mondrian.claro.com.br/channels/inverse/recordnews.png" group-title="Notícias",Record News (Fonte 6)
-https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
-#EXTINF:-1 tvg-logo="https://mondrian.claro.com.br/channels/inverse/recordnews.png" group-title="Notícias",Record News (Fonte 7)
-https://rnw-rn-soultv.otteravision.com/rnw/rn/rnw_rn.m3u8
-#EXTINF:-1 tvg-logo="https://mondrian.claro.com.br/channels/inverse/recordnews.png" group-title="Notícias",Record News (Fonte 8)
-https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/cancaonova.png" group-title="TV Aberta",Canção Nova (Fonte 2)
-https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/cancaonova.png" group-title="TV Aberta" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",Canção Nova (Fonte 3)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/cancaonova/index.m3u8
-#EXTINF:-1 tvg-logo="https://mondrian.claro.com.br/channels/inverse/tv-aparecida.png" group-title="TV Aberta" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",TV Aparecida (Fonte 3)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/tvaparecida/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/redevida.png" group-title="TV Aberta" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",Rede Vida (Fonte 2)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/redevida/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/redevida.png" group-title="TV Aberta",Rede Vida (Fonte 3)
-https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/redevida.png" group-title="TV Aberta",Rede Vida (Fonte 4)
-https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index_1.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/redevida.png" group-title="TV Aberta",Rede Vida (Fonte 5)
-http://186.219.52.187/rede_vida/index.m3u8
-#EXTINF:-1 tvg-logo="https://mondrian.claro.com.br/channels/inverse/investigacao-discovery.png" group-title="Documentários" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",Discovery ID (Fonte 3)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/discoveryid/index.m3u8
-#EXTINF:-1 tvg-logo="https://mondrian.claro.com.br/channels/inverse/fish-tv.png" group-title="Esportes",Fish TV (Fonte 2)
-http://170.83.16.50/FISH_TV/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/xsports.png" group-title="Esportes" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",X Sports (Fonte 2)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/xsports/index.m3u8
-#EXTINF:-1 tvg-logo="https://mondrian.claro.com.br/channels/inverse/nsports.png" group-title="Esportes" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",N SPORTS
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/nsports/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/band.png" group-title="TV Aberta" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",Band SP (Fonte 3)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/bandsp/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/sbt.png" group-title="TV Aberta" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",SBT SP (Fonte 3)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/sbtsp/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/record.png" group-title="TV Aberta" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",Record SP (Fonte 4)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/recordsp/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/canal-rural-br.png" group-title="Variedades",Canal Rural
-http://186.219.52.187/canal_rural/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/tvpaieterno.png" group-title="Variedades",TV Pai Eterno (Fonte 3)
-https://video09.logicahost.com.br/paieterno/paieterno/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/tvpaieterno.png" group-title="Variedades",TV Pai Eterno (Fonte 4)
-https://video09.logicahost.com.br/paieterno/paieterno/chunklist_w1610240856.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/tvpaieterno.png" group-title="Variedades" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",TV Pai Eterno (Fonte 5)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/paieterno/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ikrj3lk.png" group-title="TV Aberta",PlayTV
-https://isaocorp.cloudecast.com/playtv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TXJKwzZ.png" group-title="TV Aberta",Rede Brasil (Fonte 2)
-https://redebrasil.nuvemplay.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TXJKwzZ.png" group-title="TV Aberta",Rede Brasil (Fonte 3)
-https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/rede-gospel-br.png" group-title="Variedades",Rede Gospel (Fonte 1)
-https://redegospel-aovivo.nuvemplay.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/rede-gospel-br.png" group-title="Variedades" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",Rede Gospel (Fonte 2)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/redegospel/index.m3u8
-#EXTINF:-1 tvg-logo="https://mondrian.claro.com.br/channels/inverse/trace-brazuca.png" group-title="Variedades",Trace Brazuca (Fonte 2)
-https://amg01131-tracetv-tracebrazuca-xiaomi-vvr19.amagi.tv/playlist/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://mondrian.claro.com.br/channels/inverse/trace-brazuca.png" group-title="Variedades",Trace Brazuca (Fonte 3)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IrYR7Kp.png" group-title="Variedades",TV Evangelizar (Fonte 2)
-http://170.83.16.50/TV_EVANGELIZAR/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IrYR7Kp.png" group-title="Variedades" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",TV Evangelizar (Fonte 3)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/tvevangelizar/index.m3u8
-#EXTINF:-1 tvg-logo="https://mondrian.claro.com.br/channels/inverse/tv-justica.png" group-title="TV Aberta",TV Justiça (Fonte 2)
-http://170.83.16.50/TV_JUSTICA/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/novo-tempo-br.png" group-title="Variedades" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",TV Novo Tempo (Fonte 2)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/novotempo/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/novo-tempo-br.png" group-title="Variedades",TV Novo Tempo (Fonte 3)
-https://streamtv.novotempo.com/CDN-TV-PT/smil:tvnovotempo.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tv-senado-br.png" group-title="TV Aberta",TV Senado (Fonte 2)
-http://170.83.16.50/TV_SENADO/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/rit-br.png" group-title="Variedades",RIT (Fonte 2)
-https://acesso.ecast.site:3648/live/ritlive.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/rit-br.png" group-title="Variedades",RIT (Fonte 3)
-https://stream.ecast.com.br/rit-tv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/discoveryhh.png" group-title="Documentários" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",Discovery Home & Health (Fonte 3)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/discoveryhh/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FO4QTRf.jpeg" group-title="Variedades",Blits TV
-https://stmv1.transmissaodigital.com/blitstv/blitstv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GrjGwKM.png" group-title="Variedades",Com Brasil (Fonte 1)
-https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GrjGwKM.png" group-title="Variedades",Com Brasil (Fonte 2)
-https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/NewCo/New_Brasil_BR/New_Brasil.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vstHOYx.png" group-title="Notícias",TVideoNews (Fonte 2)
-https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vstHOYx.png" group-title="Notícias",TVideoNews (Fonte 3)
-https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist_w1659802033.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OOB7nrS.png" group-title="TV Aberta",Canal Educacao (Fonte 2)
-https://canaleducacao-stream.ebc.com.br/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LgynEBC.png" group-title="TV Aberta",Canal Futura (Fonte 2)
-http://170.83.16.50/FUTURA/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LgynEBC.png" group-title="TV Aberta",Canal Futura (Fonte 3)
-http://186.219.52.187/futura/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rHPY0Yv.png" group-title="TV Aberta",Canal Gov
-https://canalgov-stream.ebc.com.br/index.m3u8
-#EXTINF:-1 tvg-logo="https://conteudo.imguol.com.br/c/play/logo_canaluol_2024.svg" group-title="Notícias",Canal UOL (Fonte 1)
-https://video24.mais.uol.com.br/live/6146.m3u8
-#EXTINF:-1 tvg-logo="https://conteudo.imguol.com.br/c/play/logo_canaluol_2024.svg" group-title="Notícias",Canal UOL (Fonte 2)
-https://video20.mais.uol.com.br/live/4917.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pVM5MhS.png" group-title="Variedades",Canal do Boi (Fonte 3)
-http://170.83.16.50/CANAL_DO_BOI/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/DumDum_logo.svg" group-title="Infantil",DumDum
-http://186.219.52.187/zoomoo/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6077045b6031bd00078de127/colorLogoPNG_1785430539950.png" group-title="24 Horas",MasterChef
-https://amg00627-amg00627c9-runtime-latam-2613.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg00627-banijayfast-masterchefbrazil-runtimelatam/cb543d167c6c618784cb3760cef342a0f94b1fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7352db80148b61299bce8c37683f03409a5e5afba358b38ab50a5ad969a1af1c56953145f59647c0dd4ebdd4d20883448e7fa7099c93a68ace42d381c77efc02b036510f7a2fc98528cbfbb5d7b0eb01b321c2493c7c77d4e1f5dc5c3d9c4e4f2e8095a98c448fdd4a1447fb0d04b4158c47c411876eb800a4e034d1c52c03f0204bcef7f8a228e0d5a19ff73a71c90e6a7e5bbc011eaac66e1174c86298122a2d9cf28173eea645c7e673d5e62e7559b158362bb90a43b810f4f8fc9ba8aec6bf9d083f4209079454a19b22e828d24798cf062d5377e3ccf048e989c3573c6e4ec9d5108453538ed28587d019288a4e2f1ab930970b5e2cfb3d622ab176b9826a38c0662b952531fe6f308269f5ac63a0f48cab556df596ec6acb42c3f94adeff09ac2d1b5c01b8fd651f66446fdfe36342612c930bb49d9aaf274933edf1ccecc91c6d546e59015acbc7e377d4df957953468f03683006657dfc33df67db0f5e136e984ea1cb2740c5577163b6dd703733419fcba38e94d9cc50c716fec6fe2b20285665a9496b036ad4b3cd14bd0f42707e52971c262499024949fe9ad9effad13a9b7c05109ca8a6054b0f3f8d3f8d662d6d5d57dc5c82626e/145/1920x1080_6046040/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aiGQtzI.png" group-title="Filmes e Séries",MyTime Movie Network
-https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://x1colegal.com/logo.png" group-title="Infantil",NickOnline (Fonte 1)
-https://x1colegal.com/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://x1colegal.com/logo.png" group-title="Infantil",NickOnline (Fonte 2)
-https://x1colegal.com/hls/0/stream.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Nicktoons_logo_%282023%29.svg/330px-Nicktoons_logo_%282023%29.svg.png" group-title="Infantil",NickToons Brasil
-https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/nickelodeon.png" group-title="Infantil",Nickelodeon
-https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZJgD38F.png" group-title="TV Aberta",Rede TV! (Fonte 2)
-https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/combate.png" group-title="Esportes" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",Combate (Fonte 2)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/combate/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.fontedecanais.me/logos/canais/disneyplus.png" group-title="Esportes" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",Disney+ 01
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/disneyplus/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.fontedecanais.me/logos/canais/disneyplus.png" group-title="Esportes" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",Disney+ 02
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/disneyplus02/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/paramountplus.png" group-title="Esportes" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",Paramount+ (Jogo 1) (Fonte 2)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/paramountplus/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fontedecanais.gs/logos/canais/paramountplus.png" group-title="Esportes" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",Paramount+ (Jogo 2)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/paramountplus02/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fontedecanais.gs/logos/canais/paramountplus.png" group-title="Esportes" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",Paramount+ (Jogo 3)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/paramountplus03/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/studiouniversal.png" group-title="Filmes e Séries" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",Studio Universal (Fonte 2)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/studiouniversal/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/gloob.png" group-title="Infantil" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",Gloob (Fonte 2)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/gloob/index.m3u8
-#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/GLOBINHO.png" group-title="Infantil" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",Gloobinho
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/gloobinho/index.m3u8
-#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/TV_RA_TIM_BUM.png" group-title="Infantil" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",TV Rá Tim Bum (Fonte 2)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/tvratimbum/index.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IWGyp65.jpeg" group-title="TV Aberta",TVE Bahia (Fonte 2)
-http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/foodnetwork.png" group-title="Variedades" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",Food Network (Fonte 3)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/foodnetwork/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/24h.png" group-title="24 Horas",24H Naruto Clássico (Fonte 1)
-https://jmp2.uk/plu-5f6df5a173d7340007c559f7.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/discoveryworld.png" group-title="Documentários" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",Discovery World (Fonte 3)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/discoveryworld/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/cazetv.png" group-title="Esportes",CazeTV 1 (Fonte 2)
-https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/cazetv.png" group-title="Esportes" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",CazeTV 1 (Fonte 4)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/cazetv/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/cazetv.png" group-title="Esportes" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",CazeTV 2 (Fonte 2)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/cazetv2/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/sportynet.png" group-title="Esportes" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",SportyNet+ 1 (Fonte 2)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/sportynet1/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/sportynet.png" group-title="Esportes" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",SportyNet+ 2 (Fonte 2)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/sportynet2/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/sportynet.png" group-title="Esportes" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",SportyNet+ 3 (Fonte 2)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/sportynet3/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/globorj.png" group-title="TV Aberta" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",Globo RJ (Fonte 3)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/globorj/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/globosp.png" group-title="TV Aberta" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",Globo RS (Fonte 2)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/globors/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/record.png" group-title="TV Aberta" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",Record MG (Fonte 2)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/recordmg/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/record.png" group-title="TV Aberta" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",Record RJ (Fonte 3)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/recordrj/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/cazetv.png" group-title="Esportes" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",CazeTV 3
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/cazetv3/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/globosp.png" group-title="TV Aberta" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",Globo DF (Fonte 2)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/globodf/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/globosp.png" group-title="TV Aberta" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",Globo MG (Fonte 2)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/globomg/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/sportynet.png" group-title="Esportes" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",SportyNet (Fonte 2)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/sportynet/index.m3u8
-#EXTINF:-1 tvg-logo="https://vipcanais.net/images/paramountplus.png" group-title="Variedades" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",Paramount + 4
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/paramountplus04/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eHw2M6p.png" group-title="Infantil",Anime Channel TV
-https://stmv2.painelvideocast.com.br/animetv/animetv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eHw2M6p.png" group-title="Infantil",Otaku Sign TV (Fonte 2)
-https://stmv1.srvif.com/anime/anime/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jML1u4O.png" group-title="Infantil",Geekdot
-https://stream.ichibansys.com:3764/hybrid/play.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SRX6EPY.png" group-title="Infantil",NBX TV Kids
-https://stmv4.voxtvhd.com.br/bnxkids/bnxkids/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SRX6EPY.png" group-title="Infantil",SBC Kids
-https://video01.brascast.com/rede1220/rede1220/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SRX6EPY.png" group-title="Infantil",Rede Crianças
-https://video08.logicahost.com.br/kanucatv/kanucatv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SRX6EPY.png" group-title="Infantil",Kuriakos Kids
-https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yxjPno5.png" group-title="Infantil",Gospel Cartoon
-https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PZcTfqV.png" group-title="Infantil",Jetsons TV
-https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/24h.png" group-title="24 Horas",24H Os Smurfs
-https://d144py1prrd7ns.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-affg2ev32s0dq/smrfe.m3u8
-#EXTINF:-1 tvg-logo="https://mondrian.claro.com.br/channels/inverse/fifa-plus.png" group-title="Esportes",FIFA+ Português (Fonte 1)
-https://c2657533.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UGxleC1icl9GSUZBUGx1c1BvcnR1Z3Vlc2VfSExT/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://mondrian.claro.com.br/channels/inverse/fifa-plus.png" group-title="Esportes",FIFA+ Português (Fonte 2)
-https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3rM8nL2.png" group-title="Filmes e Séries",Runtime Ação
-https://run-rt-ra.otteravision.com/run/rt_ra/rt_ra_720.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKbHjFO.png" group-title="Músicas",Top TV (Fonte 2)
-https://isaocorp.cloudecast.com/toptv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c6uFj7A.png" group-title="Filmes e Séries",MovieSphere Brazil
-https://amg00353-amg00353c29-plex-us-3205.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00353-lionsgatetvfast-moviespherebrazil-plexus/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DLIbUMx.png" group-title="Músicas",Trace Urban (Fonte 2)
-https://amg01076-lightningintern-traceurban-xiaomi-m78n3.amagi.tv/playlist/amg01076-lightningintern-traceurban-xiaomi/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://mondrian.claro.com.br/channels/inverse/sony-movies.png" group-title="Filmes e Séries",Sony One Classics
-https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c6uFj7A.png" group-title="Filmes e Séries",Classique Faroeste
-https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/R0aflu1.png" group-title="Infantil",Loading TV
-https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hIlEfhl.png" group-title="Infantil",Retrô Cartoon
-https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pyOjdZs.png" group-title="Músicas",Retro Music
-https://newstream.mediawork.cz/retrotv/smil:retrotv_new.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GuM4GnX.png" group-title="Músicas",Now Rock
-https://lightning-now90s-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c6uFj7A.png" group-title="Filmes e Séries",TV Clássicos
-https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://vipcanais.net/images/cazetv.png" group-title="Esportes" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",CazeTV 4
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/cazetv4/index.m3u8
-#EXTINF:-1 tvg-logo="https://vipcanais.net/images/disneyplus.png" group-title="Esportes" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",Disney+ 07
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/disneyplus07/index.m3u8
-#EXTINF:-1 tvg-logo="https://vipcanais.net/images/disneyplus.png" group-title="Esportes" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",Disney+ 08
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/disneyplus08/index.m3u8
-#EXTINF:-1 tvg-logo="https://1.embedcanaisdetv.com/images/disneyplus.png" group-title="Esportes" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",Disney+ 03
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/disneyplus03/index.m3u8
-#EXTINF:-1 tvg-logo="https://1.embedcanaisdetv.com/images/disneyplus.png" group-title="Esportes" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",Disney+ 05
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/disneyplus05/index.m3u8
-#EXTINF:-1 tvg-logo="https://1.embedcanaisdetv.com/images/disneyplus.png" group-title="Esportes" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",Disney+ 06
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/disneyplus06/index.m3u8
-#EXTINF:-1 tvg-logo="https://vipcanais.net/images/amcseries.png" group-title="Filmes e Séries" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",AMC Séries
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/amcseries/index.m3u8
-#EXTINF:-1 tvg-logo="https://1.embedcanaisdetv.com/images/record.png" group-title="TV Aberta" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",Record DF (Fonte 2)
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/recorddf/index.m3u8
-#EXTINF:-1 tvg-logo="https://1.embedcanaisdetv.com/images/record.png" group-title="TV Aberta" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",Record ES
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/recordes/index.m3u8
-#EXTINF:-1 tvg-logo="https://1.embedcanaisdetv.com/images/disneyplus.png" group-title="Esportes" http-referrer="https://playerembedcanais.site/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",Disney+ 04
-#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/disneyplus04/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.faz-o-eli.online/mtv.png" group-title="Variedades",MTV
-https://jmp2.uk/plu-5f1212fb81e85c00077ae9ef.m3u8
-#EXTINF:-1 tvg-logo="https://mondrian.claro.com.br/channels/inverse/arte1.png" group-title="Variedades",Arte 1 (Fonte 3)
-https://video37.mais.uol.com.br/live/292.m3u8
-#EXTINF:-1 tvg-logo="https://mondrian.claro.com.br/channels/inverse/e!.png" group-title="Variedades",E!
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d021c9ff8ab94c1a583a0f5f2cc82725:7de3fcc29e3194b9c65282a42cb7bec6
-https://video49.mais.uol.com.br/live/4503.mpd
-#EXTINF:-1 tvg-logo="https://mondrian.claro.com.br/channels/inverse/sabor-e-arte.png" group-title="Variedades",Sabor & Arte (Fonte 2)
-https://video37.mais.uol.com.br/live/3066.m3u8
+# SAIMO TV — LISTA DE CANAIS
+# 203 canais funcionais (sem fontes /error.txt) · 17/09/2026
+#
+# Os apps baixam este arquivo ao abrir, então trocar um link aqui basta: nada
+# precisa ser recompilado nem reinstalado.
+#
+# Uma linha por campo, no formato "chave: valor".
+#
+#   canal:    começa um canal novo
+#   logo:     imagem do canal (opcional)
+#   categoria: em que seção da lista o canal entra (opcional); sem ela a
+#             seção sai do nome do canal
+#   fonte:    acrescenta uma fonte; a primeira é a preferida e o player desce
+#             para a seguinte quando ela falha
+#   referer:  cabeçalho Referer exigido por alguns CDNs
+#   agente:   User-Agent exigido por alguns CDNs
+#   chave:    ClearKey das fontes DASH, no formato KID:CHAVE em hexadecimal
+#
+# referer, agente e chave pertencem à fonte imediatamente acima delas.
+# Linhas em branco e linhas começadas por # são ignoradas.
+
+canal: A&E
+categoria: Documentários
+logo: https://img.faz-o-eli.online/ae.png
+
+fonte: https://live.lixe.net/hls/g7/A%26E%20TV/index.m3u8
+qualidade: HD
+fonte: https://eitvplay.appmembers.com.br/event60/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/aee/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+fonte: https://video39.mais.uol.com.br/live/267.mpd
+qualidade: HD · 1280x720
+chave: 74481194bf32774e0cb44a1d71d6cc19:4bfd25bc9419f1c71e3ee8e6bf5ccf2a
+
+canal: Adult Swim
+categoria: Variedades
+logo: https://img.faz-o-eli.online/adultswim.png
+
+fonte: https://live.lixe.net/hls/g4/Adult%20Swim%20TV/index.m3u8
+qualidade: HD
+fonte: https://eitvplay.appmembers.com.br/event48/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/adultswim/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: AMC
+categoria: Filmes e Séries
+logo: https://img.faz-o-eli.online/amc.png
+
+fonte: https://live.lixe.net/hls/g4/AMC%20HD%20TV/index.m3u8
+qualidade: HD
+fonte: https://eitvplay.appmembers.com.br/event144/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/amc/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: Animal Planet
+categoria: Documentários
+logo: https://img.faz-o-eli.online/animalplanet.png
+
+fonte: https://live.lixe.net/hls/g4/Animal%20Planet%20HD%20TV/index.m3u8
+qualidade: HD
+fonte: https://eitvplay.appmembers.com.br/event34/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/animalplanet/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: Band
+categoria: TV Aberta
+logo: https://mondrian.claro.com.br/channels/inverse/band.png
+
+fonte: https://eitvplay.appmembers.com.br/event3/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+fonte: https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/index.m3u8
+qualidade: HD · 1280x720
+fonte: https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
+fonte: https://video41.mais.uol.com.br/live/3361.mpd
+qualidade: HD · 1280x720
+chave: 3b43a1fbcf57cfe04109fbc1b381ac79:a23de064124dfddeaf3c23490d96328b
+
+canal: Cartoon Network
+categoria: Infantil
+logo: https://img.faz-o-eli.online/cartoonnetwork.png
+
+fonte: https://eitvplay.appmembers.com.br/event44/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/cartoonnetwork/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: CNN Brasil
+categoria: Notícias
+logo: https://img.faz-o-eli.online/cnnbrasil.png
+
+fonte: https://live.lixe.net/hls/g3/CNN%20Brasil%20HD%20TV/index.m3u8
+qualidade: HD
+fonte: https://eitvplay.appmembers.com.br/event110/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+fonte: https://amg01391-sbtinfast-amg01391c4-lg-br-4597.playouts.now.amagi.tv/playlist/amg01391-addigital-cnnbrasil-lgbr/playlist.m3u8
+qualidade: HD · 1280x720
+fonte: https://d25usgadhphvwi.cloudfront.net/hls/stv-plus1920x1080/playlist.m3u8
+qualidade: HD · 1280x720
+fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/cnnbrasil/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: CNN Brasil Money
+categoria: Notícias
+logo: https://mondrian.claro.com.br/channels/inverse/cnn-brasil-money.png
+
+fonte: https://amg01391-amg01391c57-amgplt0026.playout.now3.amagi.tv/playlist/amg01391-amg01391c57-amgplt0026/playlist.m3u8
+qualidade: HD · 1280x720
+
+canal: GE TV
+categoria: Esportes
+logo: https://mondrian.claro.com.br/channels/inverse/ge-tv.png
+
+fonte: https://live.lixe.net/hls/g7/ge%20tv%20TV/index.m3u8
+qualidade: HD
+fonte: https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist1080p.m3u8
+qualidade: FHD · 1920x1080
+fonte: https://proxylinkurl.wored85282.workers.dev/https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8
+qualidade: FHD · 1920x1080
+fonte: https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8
+qualidade: FHD · 1920x1080
+fonte: https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8
+qualidade: FHD · 1920x1080
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/getv/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: GloboNews
+categoria: Notícias
+logo: https://img.faz-o-eli.online/globonews.png
+
+fonte: https://live.lixe.net/hls/g6/GLOBO%20News%20UHD%20TV/index.m3u8
+qualidade: HD
+fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/globonews/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: Globoplay Novelas
+categoria: Filmes e Séries
+logo: https://img.faz-o-eli.online/globonovelas.prev.png
+
+fonte: https://live.lixe.net/hls/g1/Globoplay%20Novelas%20HD%20TV/index.m3u8
+qualidade: HD
+fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/globoplaynovelas/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: GNT
+categoria: Variedades
+logo: https://img.faz-o-eli.online/gnt.png
+
+fonte: https://live.lixe.net/hls/g7/GNT%20HD%20TV/index.m3u8
+qualidade: HD
+fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/gnt/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: History
+categoria: Documentários
+logo: https://img.faz-o-eli.online/history.png
+
+fonte: https://live.lixe.net/hls/g4/History%20HD%20TV/index.m3u8
+qualidade: HD
+fonte: https://eitvplay.appmembers.com.br/event35/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/history/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+fonte: https://video46.mais.uol.com.br/live/281.mpd
+qualidade: HD · 1280x720
+chave: f7cb42541fbc6043627e4ee025c18300:24843d82b079bbefb73100b887493400
+fonte: http://170.83.16.50/HISTORY/index.m3u8
+qualidade: HD · 1280x720
+
+canal: History 2
+categoria: Documentários
+logo: https://img.faz-o-eli.online/history2.png
+
+fonte: https://eitvplay.appmembers.com.br/event39/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/history2/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: Jovem Pan News
+categoria: Notícias
+logo: https://www.tvlogo.org/brazil/jovem-pan-news-br.png
+
+fonte: https://live.lixe.net/hls/g5/Jovem%20Pan%20News%20TV/index.m3u8
+qualidade: HD
+fonte: https://eitvplay.appmembers.com.br/event119/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+fonte: https://amg01391-sbtinfast-amg01391c3-lg-us-8995.playouts.now.amagi.tv/playlist/amg01391-addigital-jovempan-lgus/playlist.m3u8
+qualidade: HD · 1280x720
+fonte: https://amg01391-amg01391c3-tcl-spain-5038.playouts.now.amagi.tv/playlist1080-p.m3u8
+fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/jovempannews/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+fonte: http://186.219.52.187/jp_news/index.m3u8
+qualidade: FHD · 1920x1080
+
+canal: Megapix
+categoria: Filmes e Séries
+logo: https://img.faz-o-eli.online/megapix.png
+
+fonte: https://live.lixe.net/hls/g5/MEGAPIX%20UHD%20TV/index.m3u8
+qualidade: HD
+fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/megapix/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: Multishow
+categoria: Variedades
+logo: https://img.faz-o-eli.online/multishow.png
+
+fonte: https://live.lixe.net/hls/g2/MULTISHOW%20HD%20TV/index.m3u8
+qualidade: HD
+fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/multishow/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: Premiere 2
+categoria: Esportes
+logo: https://img.faz-o-eli.online/premiere.png
+
+fonte: https://live.lixe.net/hls/g5/PREMIERE%202%20HD%20TV/index.m3u8
+qualidade: HD
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/premiere2/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: Premiere 3
+categoria: Esportes
+logo: https://img.faz-o-eli.online/premiere.png
+
+fonte: https://live.lixe.net/hls/g8/PREMIERE%203%20HD%20TV/index.m3u8
+qualidade: HD
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/premiere3/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: Premiere 4
+categoria: Esportes
+logo: https://img.faz-o-eli.online/premiere.png
+
+fonte: https://live.lixe.net/hls/g7/PREMIERE%204%20HD%20TV/index.m3u8
+qualidade: HD
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/premiere4/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: Premiere 5
+categoria: Esportes
+logo: https://img.faz-o-eli.online/premiere.png
+
+fonte: https://live.lixe.net/hls/g7/PREMIERE%205%20HD%20TV/index.m3u8
+qualidade: HD
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/premiere5/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: Premiere 6
+categoria: Esportes
+logo: https://mondrian.claro.com.br/channels/inverse/premiere.png
+
+fonte: https://live.lixe.net/hls/g7/PREMIERE%206%20HD%20TV/index.m3u8
+qualidade: HD
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/premiere6/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: Premiere 7
+categoria: Esportes
+logo: https://img.faz-o-eli.online/premiere.png
+
+fonte: https://live.lixe.net/hls/g7/PREMIERE%207%20TV/index.m3u8
+qualidade: HD
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/premiere7/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: Premiere 8
+categoria: Esportes
+logo: https://mondrian.claro.com.br/channels/inverse/premiere.png
+
+fonte: https://live.lixe.net/hls/g3/PREMIERE%208%20TV/index.m3u8
+qualidade: HD
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/premiere8/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: Premiere Clubes
+categoria: Esportes
+logo: https://img.faz-o-eli.online/premiere.png
+
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/premiereclubes/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: SBT
+categoria: TV Aberta
+logo: https://mondrian.claro.com.br/channels/inverse/sbt.png
+
+fonte: https://live.lixe.net/hls/g1/SBT%20HD%20TV/index.m3u8
+qualidade: HD
+fonte: https://eitvplay.appmembers.com.br/event2/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+fonte: https://aovivo.maissbt.com/indexMobile.m3u8
+qualidade: HD · 1280x720
+fonte: https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8
+qualidade: FHD · 1920x1080
+
+canal: SBT News
+categoria: Notícias
+logo: https://mondrian.claro.com.br/channels/inverse/sbt-news.png
+
+fonte: https://live.lixe.net/hls/g2/SBT%20NEWS%20UHD%20TV/index.m3u8
+qualidade: HD
+fonte: https://sbtnews.maissbt.com/index.m3u8
+qualidade: HD · 1280x720
+fonte: https://sbtnews.maissbt.com/3.m3u8
+fonte: https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8
+qualidade: HD · 1280x720
+
+canal: Sony Channel
+categoria: Filmes e Séries
+logo: https://img.faz-o-eli.online/sonychannel.png
+
+fonte: https://eitvplay.appmembers.com.br/event57/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/sonychannel/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+fonte: https://video37.mais.uol.com.br/live/279.mpd
+qualidade: HD · 1280x720
+chave: 5e8567bf0707bf910f611e5cf2ef352f:8b30ddee60bb9fe6653f1eb8c9b85d5d
+fonte: http://170.83.16.50/SONY_CHANNEL/index.m3u8
+qualidade: HD · 1280x720
+
+canal: SporTV
+categoria: Esportes
+logo: https://img.faz-o-eli.online/sportv.png
+
+fonte: https://live.lixe.net/hls/g8/SporTV%20HD%20TV/index.m3u8
+qualidade: HD
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/sportv/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: SporTV 2
+categoria: Esportes
+logo: https://img.faz-o-eli.online/sportv2.png
+
+fonte: https://live.lixe.net/hls/g6/SporTV2%20HD%20TV/index.m3u8
+qualidade: HD
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/sportv2/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: SporTV 3
+categoria: Esportes
+logo: https://img.faz-o-eli.online/sportv3.png
+
+fonte: https://live.lixe.net/hls/g5/SporTV3%20TV/index.m3u8
+qualidade: HD
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/sportv3/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: Canal OFF
+categoria: Esportes
+logo: https://img.faz-o-eli.online/off.png
+
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/canaloff/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: Telecine Action
+categoria: Filmes e Séries
+logo: https://img.faz-o-eli.online/telecineaction.png
+
+fonte: https://live.lixe.net/hls/g5/Telecine%20Action%20UHD%20TV/index.m3u8
+qualidade: HD
+fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/tcaction/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: Telecine Pipoca
+categoria: Filmes e Séries
+logo: https://img.faz-o-eli.online/telecinepipoca.png
+
+fonte: https://live.lixe.net/hls/g2/Telecine%20Pipoca%20UHD%20TV/index.m3u8
+qualidade: HD
+fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/tcpipoca/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: Telecine Premium
+categoria: Filmes e Séries
+logo: https://img.faz-o-eli.online/telecinepremium.png
+
+fonte: https://live.lixe.net/hls/g1/Telecine%20Premium%20UHD%20TV/index.m3u8
+qualidade: HD
+fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/tcpremium/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: TV Brasil
+categoria: TV Aberta
+logo: https://mondrian.claro.com.br/channels/inverse/tv-brasil.png
+
+fonte: https://tvbrasil-stream.ebc.com.br/index.m3u8
+qualidade: SD · 576x324
+
+canal: Warner
+categoria: Filmes e Séries
+logo: https://img.faz-o-eli.online/warnerchannel.png
+
+fonte: https://live.lixe.net/hls/g2/Warner%20UHD%20TV/index.m3u8
+qualidade: HD
+fonte: https://eitvplay.appmembers.com.br/event56/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+fonte: https://net11.sattvgo.com.br/WARNER_HD/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
+fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/warner/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+fonte: https://video45.mais.uol.com.br/live/277.mpd
+qualidade: HD · 1280x720
+chave: ff12e06c66327cd35b99013b38dd4f84:08320e9a44185e55074ac435d8c9a856
+
+canal: IMPD
+categoria: Variedades
+logo: https://d5pgibznjcs0s.cloudfront.net/46d92cf6-4807-45c6-9bfd-b38f80288c86/en/images/logo_full.png
+
+fonte: https://live.lixe.net/hls/g4/IMPD%20TV%20TV/index.m3u8
+qualidade: HD
+fonte: https://igrejamundial.nuvemplay.live/hls/stream.m3u8
+qualidade: HD · 1280x720
+
+canal: Globo SP
+categoria: TV Aberta
+logo: https://img.faz-o-eli.online/globosp.png
+
+fonte: https://live.lixe.net/hls/g5/GLOBO%20SP%20HD%20TV/index.m3u8
+qualidade: HD
+fonte: https://eitvplay.appmembers.com.br/event4/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: FHD · 1920x1080
+fonte: https://net11.sattvgo.com.br/GLOBO_SP/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
+fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/globosp/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: Cartoonito
+categoria: Infantil
+logo: https://img.faz-o-eli.online/cartoonito.png
+
+fonte: https://live.lixe.net/hls/g7/Cartoonito%20TV/index.m3u8
+qualidade: HD
+fonte: https://eitvplay.appmembers.com.br/event46/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/cartoonito/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: Cinemax
+categoria: Filmes e Séries
+logo: https://img.faz-o-eli.online/cinemax.png
+
+fonte: https://live.lixe.net/hls/g5/CineMax%20UHD%20TV/index.m3u8
+qualidade: HD
+fonte: https://eitvplay.appmembers.com.br/event95/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+fonte: https://net11.sattvgo.com.br/CINEMAX/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
+fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/cinemax/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: Discovery Channel
+categoria: Documentários
+logo: https://img.faz-o-eli.online/discoverychannel.png
+
+fonte: https://eitvplay.appmembers.com.br/event33/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/discoverychannel/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: Discovery Kids
+categoria: Infantil
+logo: https://img.faz-o-eli.online/discoverykids.png
+
+fonte: https://live.lixe.net/hls/g6/DISCOVERY%20KIDS%20UHD%20TV/index.m3u8
+qualidade: HD
+fonte: https://eitvplay.appmembers.com.br/event42/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/discoverykids/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: Discovery Theater
+categoria: Documentários
+logo: https://img.faz-o-eli.online/discoverytheater.png
+
+fonte: https://live.lixe.net/hls/g5/DISCOVERY%20THEATER%20HD%20TV/index.m3u8
+qualidade: HD
+fonte: https://eitvplay.appmembers.com.br/event40/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/discoverytheater/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: ESPN
+categoria: Esportes
+logo: https://img.faz-o-eli.online/espn.png
+
+fonte: https://live.lixe.net/hls/g6/VIVO%205%20TV/index.m3u8
+qualidade: HD
+fonte: https://eitvplay.appmembers.com.br/event24/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/espn/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+fonte: http://181.78.197.59:8000/play/a07z/index.m3u8
+qualidade: FHD · 1920x1080
+
+canal: ESPN 2
+categoria: Esportes
+logo: https://img.faz-o-eli.online/espn2.png
+
+fonte: https://live.lixe.net/hls/g7/VIVO%206%20TV/index.m3u8
+qualidade: HD
+fonte: https://eitvplay.appmembers.com.br/event25/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/espn2/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: ESPN 4
+categoria: Esportes
+logo: https://img.faz-o-eli.online/espn4.png
+
+fonte: https://live.lixe.net/hls/g8/VIVO%208%20TV/index.m3u8
+qualidade: HD
+fonte: https://eitvplay.appmembers.com.br/event27/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/espn4/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+fonte: http://181.78.197.59:8000/play/a07n/index.m3u8
+qualidade: FHD · 1920x1080
+
+canal: ESPN 5
+categoria: Esportes
+logo: https://img.faz-o-eli.online/espn5.png
+
+fonte: https://eitvplay.appmembers.com.br/event28/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/espn5/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: ESPN 6
+categoria: Esportes
+logo: https://img.faz-o-eli.online/espn6.png
+
+fonte: https://eitvplay.appmembers.com.br/event23/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/espn6/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: HBO
+categoria: Filmes e Séries
+logo: https://img.faz-o-eli.online/hbo.png
+
+fonte: https://eitvplay.appmembers.com.br/event87/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/hbo/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: HBO2
+categoria: Filmes e Séries
+logo: https://img.faz-o-eli.online/hbo2.png
+
+fonte: https://live.lixe.net/hls/g2/HBO%202%20UHD%20TV/index.m3u8
+qualidade: HD
+fonte: https://eitvplay.appmembers.com.br/event88/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+fonte: https://gigalinks.sattvgo.com.br/HBO2/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
+fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/hbo2/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: HBO Family
+categoria: Filmes e Séries
+logo: https://img.faz-o-eli.online/hbofamily.png
+
+fonte: https://live.lixe.net/hls/g8/HBO%20FAMILY%20UHD%20TV/index.m3u8
+qualidade: HD
+fonte: https://eitvplay.appmembers.com.br/event90/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+fonte: https://net11.sattvgo.com.br/HBO_FAMILY/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
+fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/hbofamily/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: HBO Mundi
+categoria: Filmes e Séries
+logo: https://img.faz-o-eli.online/hbomundi.png
+
+fonte: https://live.lixe.net/hls/g4/HBO%20MUNDI%20UHD%20TV/index.m3u8
+qualidade: HD
+fonte: https://eitvplay.appmembers.com.br/event93/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+fonte: https://cdn-rs1.satlabscloud.com.br/HBO_MUNDI_HD/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
+fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/hbomundi/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: HBO Plus
+categoria: Filmes e Séries
+logo: https://img.faz-o-eli.online/hboplus.png
+
+fonte: https://live.lixe.net/hls/g3/HBO%20PLUS%20UHD%20TV/index.m3u8
+qualidade: HD
+fonte: https://eitvplay.appmembers.com.br/event89/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+fonte: https://grupoa.satlabscloud.com.br/HBO_PLUS/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
+fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/hboplus/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: HBO Pop
+categoria: Filmes e Séries
+logo: https://img.faz-o-eli.online/hbopop.png
+
+fonte: https://live.lixe.net/hls/g4/HBO%20POP%20UHD%20TV/index.m3u8
+qualidade: HD
+fonte: https://eitvplay.appmembers.com.br/event92/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+fonte: https://gvtelecom.satlabscloud.com.br/HBO_POP_HD/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
+fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/hbopop/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: HBO Signature
+categoria: Filmes e Séries
+logo: https://mondrian.claro.com.br/channels/inverse/hbo-signature.png
+
+fonte: https://live.lixe.net/hls/g8/HBO%20SIGNATURE%20UHD%20TV/index.m3u8
+qualidade: HD
+fonte: https://eitvplay.appmembers.com.br/event91/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+fonte: https://net11.sattvgo.com.br/HBO_SIGNATURE/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
+fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/hbosignature/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: HBO Xtreme
+categoria: Filmes e Séries
+logo: https://mondrian.claro.com.br/channels/inverse/hbo-xtreme.png
+
+fonte: https://live.lixe.net/hls/g0/HBO%20XTREME%20UHD%20TV/index.m3u8
+qualidade: HD
+fonte: https://eitvplay.appmembers.com.br/event94/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/hboxtreme/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: Space
+categoria: Filmes e Séries
+logo: https://img.faz-o-eli.online/space.png
+
+fonte: https://live.lixe.net/hls/g5/SPACE%20UHD%20TV/index.m3u8
+qualidade: HD
+fonte: https://eitvplay.appmembers.com.br/event65/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/space/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: TNT
+categoria: Filmes e Séries
+logo: https://img.faz-o-eli.online/tnt.png
+
+fonte: https://live.lixe.net/hls/g3/TNT%20UHD%20TV/index.m3u8
+qualidade: HD
+fonte: https://eitvplay.appmembers.com.br/event64/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+fonte: https://net11.sattvgo.com.br/TNT/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/tnt/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: TNT Séries
+categoria: Filmes e Séries
+logo: https://img.faz-o-eli.online/tntseries.png
+
+fonte: https://live.lixe.net/hls/g7/TNT%20SERIES%20UHD%20TV/index.m3u8
+qualidade: HD
+fonte: https://eitvplay.appmembers.com.br/event63/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/tntseries/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: Universal TV
+categoria: Filmes e Séries
+logo: https://img.faz-o-eli.online/universaltv.png
+
+fonte: https://live.lixe.net/hls/g7/Universal%20UHD%20TV/index.m3u8
+qualidade: HD
+fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/universaltv/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: Discovery Turbo
+categoria: Documentários
+logo: https://img.faz-o-eli.online/discoveryturbo.png
+
+fonte: https://live.lixe.net/hls/g2/DISCOVERY%20TURBO%20HD%20TV/index.m3u8
+qualidade: HD
+fonte: https://eitvplay.appmembers.com.br/event36/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/discoveryturbo/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: USA Network
+categoria: Filmes e Séries
+logo: https://mondrian.claro.com.br/channels/inverse/usa.png
+
+fonte: https://live.lixe.net/hls/g3/USA%20Network%20TV/index.m3u8
+qualidade: HD
+fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/usa/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: Telecine Fun
+categoria: Filmes e Séries
+logo: https://img.faz-o-eli.online/telecinefun.png
+
+fonte: https://live.lixe.net/hls/g6/Telecine%20FUN%20UHD%20TV/index.m3u8
+qualidade: HD
+fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/tcfun/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: Telecine Cult
+categoria: Filmes e Séries
+logo: https://img.faz-o-eli.online/telecinecult.png
+
+fonte: https://live.lixe.net/hls/g5/Telecine%20Cult%20UHD%20TV/index.m3u8
+qualidade: HD
+fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/tccult/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: Telecine Touch
+categoria: Filmes e Séries
+logo: https://img.faz-o-eli.online/telecinetouch.png
+
+fonte: https://live.lixe.net/hls/g8/Telecine%20Touch%20UHD%20TV/index.m3u8
+qualidade: HD
+fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/tctouch/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: Tooncast
+categoria: Infantil
+logo: https://mondrian.claro.com.br/channels/inverse/tooncast.png
+
+fonte: https://live.lixe.net/hls/g8/Tooncast%20TV/index.m3u8
+qualidade: HD
+fonte: https://eitvplay.appmembers.com.br/event49/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+fonte: http://170.83.16.50:80/TOONCAST/index.m3u8
+qualidade: HD · 1280x720
+
+canal: TNT Novelas
+categoria: Filmes e Séries
+logo: https://img.faz-o-eli.online/tntnovelas.png
+
+fonte: https://live.lixe.net/hls/g3/TNT%20Novelas%20HD%20TV/index.m3u8
+qualidade: HD
+fonte: https://eitvplay.appmembers.com.br/event157/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/tntnovelas/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: Discovery Science
+categoria: Documentários
+logo: https://img.faz-o-eli.online/discoveryscience.png
+
+fonte: https://live.lixe.net/hls/g6/DISCOVERY%20SCIENCE%20TV/index.m3u8
+qualidade: HD
+fonte: https://eitvplay.appmembers.com.br/event37/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/discoveryscience/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: AXN
+categoria: Filmes e Séries
+logo: https://img.faz-o-eli.online/axn.png
+
+fonte: https://live.lixe.net/hls/g1/AXN%20UHD%20TV/index.m3u8
+qualidade: HD
+fonte: https://eitvplay.appmembers.com.br/event59/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/axn/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+fonte: http://170.83.49.66:8083/AXNHD/index.m3u8
+qualidade: HD · 1280x720
+fonte: http://170.83.16.50/AXN/index.m3u8
+qualidade: HD · 1280x720
+
+canal: Band News
+categoria: Notícias
+logo: https://img.faz-o-eli.online/bandnews.png
+
+fonte: https://live.lixe.net/hls/g4/BAND%20NEWS%20UHD%20TV/index.m3u8
+qualidade: HD
+fonte: https://eitvplay.appmembers.com.br/event31/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/bandnews/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: BAND SPORTS HD
+categoria: Esportes
+logo: https://img.faz-o-eli.online/bandsports.png
+
+fonte: https://live.lixe.net/hls/g1/BAND%20Sports%20HD%20TV/index.m3u8
+qualidade: HD
+fonte: https://eitvplay.appmembers.com.br/event29/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/bandsports/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+fonte: https://video41.mais.uol.com.br/live/290.mpd
+qualidade: HD · 1280x720
+chave: 74481194bf32774e0cb44a1d71d6cc19:4bfd25bc9419f1c71e3ee8e6bf5ccf2a
+fonte: http://170.83.49.66:8083/BANDSPORTSHD/index.m3u8
+qualidade: HD · 1280x720
+fonte: http://170.83.16.50/BAND_SPORTS/index.m3u8
+qualidade: HD · 1280x720
+
+canal: RedeTV!
+categoria: TV Aberta
+logo: https://www.tvlogo.org/brazil/rede-tv-br.png
+
+fonte: https://eitvplay.appmembers.com.br/event13/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+fonte: https://tv01.zas.media:1936/redetvparana/redetvparana/chunklist_w1074634538.m3u8
+qualidade: FHD · 1920x1080
+fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/redetv/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+fonte: http://170.83.16.50/REDE_TV/index.m3u8
+qualidade: HD · 1280x720
+
+canal: TV Cultura
+categoria: TV Aberta
+logo: https://img.faz-o-eli.online/cultura.png
+
+fonte: https://live.lixe.net/hls/g2/TV%20Cultura%20Mob/index.m3u8
+qualidade: HD
+fonte: https://grupoa.satlabscloud.com.br/TV_CULTURA_HD/index.m3u8?token=WdS7zWq3VkMZEiAMjl4J4FqMFjkNjpkV
+qualidade: HD · 1280x720
+fonte: https://eitvplay.appmembers.com.br/event1/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+fonte: https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
+qualidade: FHD · 1920x1080
+fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/tvcultura/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: Terra Viva
+categoria: Variedades
+logo: https://www.tvlogo.org/brazil/terraviva-br.png
+
+fonte: https://live.lixe.net/hls/g2/Terra%20Viva%20TV/index.m3u8
+qualidade: HD
+fonte: https://eitvplay.appmembers.com.br/event72/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+fonte: https://9ada494d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfVXBseW5rLU5ld2NvX0hMUw/playlist.m3u8
+qualidade: HD · 1280x720
+
+canal: Woohoo
+categoria: Esportes
+logo: https://mondrian.claro.com.br/channels/inverse/woohoo.png
+
+fonte: https://live.lixe.net/hls/g4/Woohoo%20TV/index.m3u8
+qualidade: HD
+fonte: https://eitvplay.appmembers.com.br/event22/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+fonte: http://170.83.16.50/WOOHOO/index.m3u8
+qualidade: HD · 1280x720
+
+canal: ESPN 3
+categoria: Esportes
+logo: https://img.faz-o-eli.online/espn3.png
+
+fonte: https://live.lixe.net/hls/g7/VIVO%207%20TV/index.m3u8
+qualidade: HD
+fonte: https://eitvplay.appmembers.com.br/event26/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/espn3/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+fonte: http://181.78.197.59:8000/play/a081/index.m3u8
+qualidade: FHD · 1920x1080
+
+canal: TV Gazeta
+categoria: TV Aberta
+logo: https://mondrian.claro.com.br/channels/inverse/tv-gazeta.png
+
+fonte: https://live.lixe.net/hls/g6/Gazeta%20HD%20TV/index.m3u8
+qualidade: HD
+fonte: https://video08.logicahost.com.br/tvc21/tvc21/chunklist_w930922724.m3u8
+
+canal: Record News
+categoria: Notícias
+logo: https://mondrian.claro.com.br/channels/inverse/recordnews.png
+
+fonte: https://live.lixe.net/hls/g1/Record%20News%20HD%20TV/index.m3u8
+qualidade: HD
+fonte: https://eitvplay.appmembers.com.br/event108/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+fonte: https://rnw-rn-samsungtvplus.otteravision.com/rnw/rn/rnw_rn.m3u8
+qualidade: HD · 1280x720
+fonte: https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
+qualidade: HD · 1280x720
+fonte: https://rnw-rn-soultv.otteravision.com/rnw/rn/rnw_rn.m3u8
+qualidade: HD · 1280x720
+fonte: https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8
+fonte: https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431
+qualidade: HD · 1280x720
+fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/recordnews/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: Canção Nova
+categoria: TV Aberta
+logo: https://img.faz-o-eli.online/cancaonova.png
+
+fonte: https://live.lixe.net/hls/g8/Cancao%20Nova%20TV/index.m3u8
+qualidade: HD
+fonte: https://eitvplay.appmembers.com.br/event81/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+fonte: https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/playlist.m3u8
+qualidade: HD
+fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/cancaonova/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: TV Aparecida
+categoria: TV Aberta
+logo: https://mondrian.claro.com.br/channels/inverse/tv-aparecida.png
+
+fonte: https://live.lixe.net/hls/g3/TV%20Aparecida%20HD%20TV/index.m3u8
+qualidade: HD
+fonte: https://eitvplay.appmembers.com.br/event77/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/tvaparecida/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: Rede Vida
+categoria: TV Aberta
+logo: https://img.faz-o-eli.online/redevida.png
+
+fonte: https://live.lixe.net/hls/g6/Rede%20Vida%20HD%20TV/index.m3u8
+qualidade: HD
+fonte: https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index.m3u8
+qualidade: HD · 1280x720
+fonte: https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index_1.m3u8
+qualidade: HD · 1280x720
+fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/redevida/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+fonte: http://186.219.52.187/rede_vida/index.m3u8
+qualidade: SD · 720x576
+
+canal: Discovery ID
+categoria: Documentários
+logo: https://mondrian.claro.com.br/channels/inverse/investigacao-discovery.png
+
+fonte: https://eitvplay.appmembers.com.br/event61/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/discoveryid/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: Fish TV
+categoria: Esportes
+logo: https://mondrian.claro.com.br/channels/inverse/fish-tv.png
+
+fonte: https://live.lixe.net/hls/g7/FISH%20TV%20TV/index.m3u8
+qualidade: HD
+fonte: https://eitvplay.appmembers.com.br/event71/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+fonte: http://170.83.16.50/FISH_TV/index.m3u8
+qualidade: HD · 1280x720
+
+canal: X Sports
+categoria: Esportes
+logo: https://img.faz-o-eli.online/xsports.png
+
+fonte: https://live.lixe.net/hls/g2/VIVO%209%20TV/index.m3u8
+qualidade: HD
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/xsports/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: Band SP
+categoria: TV Aberta
+logo: https://img.faz-o-eli.online/band.png
+
+fonte: https://eitvplay.appmembers.com.br/event3/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/bandsp/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: SBT SP
+categoria: TV Aberta
+logo: https://img.faz-o-eli.online/sbt.png
+
+fonte: https://eitvplay.appmembers.com.br/event2/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/sbtsp/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: Record SP
+categoria: TV Aberta
+logo: https://img.faz-o-eli.online/record.png
+
+fonte: https://live.lixe.net/hls/g6/Record%20TV%20SP%20TV/index.m3u8
+qualidade: HD
+fonte: https://eitvplay.appmembers.com.br/event96/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+fonte: https://net11.sattvgo.com.br/RECORD_SP/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
+fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/recordsp/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: Canal Rural
+categoria: Variedades
+logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/canal-rural-br.png
+
+fonte: https://live.lixe.net/hls/g3/Canal%20Rural%20TV/index.m3u8
+qualidade: HD
+fonte: http://186.219.52.187/canal_rural/index.m3u8
+qualidade: HD · 1280x720
+
+canal: TV Pai Eterno
+categoria: Variedades
+logo: https://img.faz-o-eli.online/tvpaieterno.png
+
+fonte: https://live.lixe.net/hls/g5/TV%20Pai%20Eterno%20TV/index.m3u8
+qualidade: HD
+fonte: https://eitvplay.appmembers.com.br/event142/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+fonte: https://video09.logicahost.com.br/paieterno/paieterno/playlist.m3u8
+qualidade: FHD · 1920x1080
+fonte: https://video09.logicahost.com.br/paieterno/paieterno/chunklist_w1610240856.m3u8
+qualidade: FHD · 1920x1080
+fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/paieterno/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: PlayTV
+categoria: TV Aberta
+logo: https://i.imgur.com/Ikrj3lk.png
+
+fonte: https://isaocorp.cloudecast.com/playtv/index.m3u8
+qualidade: FHD · 1920x1080
+
+canal: Rede Brasil
+categoria: TV Aberta
+logo: https://i.imgur.com/TXJKwzZ.png
+
+fonte: https://live.lixe.net/hls/g2/Rede%20Brasil%20HD%20TV/index.m3u8
+qualidade: HD
+fonte: https://eitvplay.appmembers.com.br/event15/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+fonte: https://redebrasil.nuvemplay.live/hls/stream.m3u8
+qualidade: HD · 1280x720
+fonte: https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8
+
+canal: Rede Gospel
+categoria: Variedades
+logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/rede-gospel-br.png
+
+fonte: https://live.lixe.net/hls/g7/TV%20Rede%20Gospel%20TV/index.m3u8
+qualidade: HD
+fonte: https://redegospel-aovivo.nuvemplay.live/hls/stream.m3u8
+qualidade: FHD · 1920x1080
+fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/redegospel/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: Trace Brazuca
+categoria: Variedades
+logo: https://mondrian.claro.com.br/channels/inverse/trace-brazuca.png
+
+fonte: https://eitvplay.appmembers.com.br/event124/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+fonte: https://amg01131-tracetv-tracebrazuca-xiaomi-vvr19.amagi.tv/playlist/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
+qualidade: HD · 1280x720
+fonte: https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8
+qualidade: Qualidade não informada
+
+canal: TV Evangelizar
+categoria: Variedades
+logo: https://i.imgur.com/IrYR7Kp.png
+
+fonte: https://live.lixe.net/hls/g6/TV%20EVANGELIZAR%20TV/index.m3u8
+qualidade: HD
+fonte: https://eitvplay.appmembers.com.br/event180/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/tvevangelizar/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+fonte: http://170.83.16.50/TV_EVANGELIZAR/index.m3u8
+qualidade: HD · 1280x720
+
+canal: TV Justiça
+categoria: TV Aberta
+logo: https://mondrian.claro.com.br/channels/inverse/tv-justica.png
+
+fonte: https://live.lixe.net/hls/g5/TV%20Justica%20TV/index.m3u8
+qualidade: HD
+fonte: https://eitvplay.appmembers.com.br/event7/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+fonte: http://170.83.16.50/TV_JUSTICA/index.m3u8
+qualidade: HD · 1280x720
+
+canal: TV Novo Tempo
+categoria: Variedades
+logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/novo-tempo-br.png
+
+fonte: https://live.lixe.net/hls/g8/Novo%20Tempo%20TV/index.m3u8
+qualidade: HD
+fonte: https://eitvplay.appmembers.com.br/event79/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+fonte: https://streamtv.novotempo.com/CDN-TV-PT/smil:tvnovotempo.smil/playlist.m3u8
+qualidade: HD · 1280x720
+fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/novotempo/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: TV Senado
+categoria: TV Aberta
+logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tv-senado-br.png
+
+fonte: https://live.lixe.net/hls/g6/TV%20Senado%20TV/index.m3u8
+qualidade: HD
+fonte: https://eitvplay.appmembers.com.br/event11/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+fonte: http://170.83.16.50/TV_SENADO/index.m3u8
+qualidade: HD · 1310x720
+
+canal: RIT
+categoria: Variedades
+logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/rit-br.png
+
+fonte: https://live.lixe.net/hls/g6/RIT%20TV/index.m3u8
+qualidade: HD
+fonte: https://eitvplay.appmembers.com.br/event139/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+fonte: https://acesso.ecast.site:3648/live/ritlive.m3u8
+qualidade: FHD · 1920x1080
+fonte: https://stream.ecast.com.br/rit-tv/tracks-v1a1/mono.m3u8
+
+canal: Discovery Home & Health
+categoria: Documentários
+logo: https://img.faz-o-eli.online/discoveryhh.png
+
+fonte: https://eitvplay.appmembers.com.br/event18/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/discoveryhh/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: Com Brasil
+categoria: Variedades
+logo: https://i.imgur.com/GrjGwKM.png
+
+fonte: https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
+qualidade: FHD · 1920x1080
+fonte: https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/NewCo/New_Brasil_BR/New_Brasil.m3u8
+qualidade: FHD · 1920x1080
+
+canal: TVideoNews
+categoria: Notícias
+logo: https://i.imgur.com/vstHOYx.png
+
+fonte: https://eitvplay.appmembers.com.br/event100/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+fonte: https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8
+qualidade: FHD · 1920x1080
+fonte: https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist_w1659802033.m3u8
+
+canal: Canal Educacao
+categoria: TV Aberta
+logo: https://i.imgur.com/OOB7nrS.png
+
+fonte: https://live.lixe.net/hls/g1/Canal%20Educacao%20TV/index.m3u8
+qualidade: HD
+fonte: https://eitvplay.appmembers.com.br/event8/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+fonte: https://canaleducacao-stream.ebc.com.br/index.m3u8
+qualidade: HD · 1280x720
+
+canal: Canal Futura
+categoria: TV Aberta
+logo: https://i.imgur.com/LgynEBC.png
+
+fonte: https://eitvplay.appmembers.com.br/event102/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+fonte: http://170.83.16.50/FUTURA/index.m3u8
+qualidade: HD · 1280x720
+fonte: http://186.219.52.187/futura/index.m3u8
+qualidade: HD · 1280x720
+
+canal: Canal Gov
+categoria: TV Aberta
+logo: https://i.imgur.com/rHPY0Yv.png
+
+fonte: https://canalgov-stream.ebc.com.br/index.m3u8
+qualidade: HD · 1280x720
+
+canal: Canal UOL
+categoria: Notícias
+logo: https://conteudo.imguol.com.br/c/play/logo_canaluol_2024.svg
+
+fonte: https://video24.mais.uol.com.br/live/6146.m3u8
+qualidade: FHD · 1920x1080
+fonte: https://video20.mais.uol.com.br/live/4917.m3u8
+qualidade: HD · 1280x720
+
+canal: Canal do Boi
+categoria: Variedades
+logo: https://i.imgur.com/pVM5MhS.png
+
+fonte: https://live.lixe.net/hls/g2/Canal%20do%20Boi%20HD%20TV/index.m3u8
+qualidade: HD
+fonte: https://eitvplay.appmembers.com.br/event70/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+fonte: https://eitvplay.appmembers.com.br/event160/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+fonte: http://170.83.16.50/CANAL_DO_BOI/index.m3u8
+qualidade: HD · 1280x720
+
+canal: DumDum
+categoria: Infantil
+logo: https://upload.wikimedia.org/wikipedia/commons/c/c0/DumDum_logo.svg
+
+fonte: https://live.lixe.net/hls/g1/Dum%20dum%20TV/index.m3u8
+qualidade: HD
+fonte: http://186.219.52.187/zoomoo/index.m3u8
+qualidade: SD · 720x576
+
+canal: MasterChef
+categoria: 24 Horas
+logo: https://images.pluto.tv/channels/6077045b6031bd00078de127/colorLogoPNG_1785430539950.png
+
+fonte: https://amg00627-amg00627c9-runtime-latam-2613.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg00627-banijayfast-masterchefbrazil-runtimelatam/cb543d167c6c618784cb3760cef342a0f94b1fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7352db80148b61299bce8c37683f03409a5e5afba358b38ab50a5ad969a1af1c56953145f59647c0dd4ebdd4d20883448e7fa7099c93a68ace42d381c77efc02b036510f7a2fc98528cbfbb5d7b0eb01b321c2493c7c77d4e1f5dc5c3d9c4e4f2e8095a98c448fdd4a1447fb0d04b4158c47c411876eb800a4e034d1c52c03f0204bcef7f8a228e0d5a19ff73a71c90e6a7e5bbc011eaac66e1174c86298122a2d9cf28173eea645c7e673d5e62e7559b158362bb90a43b810f4f8fc9ba8aec6bf9d083f4209079454a19b22e828d24798cf062d5377e3ccf048e989c3573c6e4ec9d5108453538ed28587d019288a4e2f1ab930970b5e2cfb3d622ab176b9826a38c0662b952531fe6f308269f5ac63a0f48cab556df596ec6acb42c3f94adeff09ac2d1b5c01b8fd651f66446fdfe36342612c930bb49d9aaf274933edf1ccecc91c6d546e59015acbc7e377d4df957953468f03683006657dfc33df67db0f5e136e984ea1cb2740c5577163b6dd703733419fcba38e94d9cc50c716fec6fe2b20285665a9496b036ad4b3cd14bd0f42707e52971c262499024949fe9ad9effad13a9b7c05109ca8a6054b0f3f8d3f8d662d6d5d57dc5c82626e/145/1920x1080_6046040/index.m3u8
+
+canal: MyTime Movie Network
+categoria: Filmes e Séries
+logo: https://i.imgur.com/aiGQtzI.png
+
+fonte: https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+qualidade: HD · 1280x720
+
+canal: NickOnline
+categoria: Infantil
+logo: https://x1colegal.com/logo.png
+
+fonte: https://x1colegal.com/hls/stream.m3u8
+qualidade: HD · 1280x720
+fonte: https://x1colegal.com/hls/0/stream.m3u8
+
+canal: NickToons Brasil
+categoria: Infantil
+logo: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Nicktoons_logo_%282023%29.svg/330px-Nicktoons_logo_%282023%29.svg.png
+
+fonte: https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
+qualidade: SD · 854x480
+
+canal: Nickelodeon
+categoria: Infantil
+logo: https://img.faz-o-eli.online/nickelodeon.png
+
+fonte: https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8
+qualidade: SD · 854x480
+
+canal: Rede TV!
+categoria: TV Aberta
+logo: https://i.imgur.com/ZJgD38F.png
+
+fonte: https://live.lixe.net/hls/g5/Rede%20TV%21%20HD%20TV/index.m3u8
+qualidade: HD
+fonte: https://eitvplay.appmembers.com.br/event13/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+fonte: https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
+qualidade: FHD · 1920x1080
+fonte: https://tv01.zas.media:1936/redetvparana/redetvparana/chunklist_w1074634538.m3u8
+qualidade: FHD · 1920x1080
+fonte: http://170.83.16.50/REDE_TV/index.m3u8
+qualidade: HD · 1280x720
+
+canal: Runtime
+categoria: Filmes e Séries
+logo: https://images.pluto.tv/channels/62c5d32e2c48f9000715b6e9/colorLogoPNG.png
+
+fonte: https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
+qualidade: HD · 1280x720
+
+canal: Combate
+categoria: Esportes
+logo: https://img.faz-o-eli.online/combate.png
+
+fonte: https://live.lixe.net/hls/g7/COMBATE%20HD%20TV/index.m3u8
+qualidade: HD
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/combate/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: Disney+ 01
+categoria: Esportes
+logo: http://www.fontedecanais.me/logos/canais/disneyplus.png
+
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/disneyplus/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: Paramount+ (Jogo 1)
+categoria: Esportes
+logo: https://img.faz-o-eli.online/paramountplus.png
+
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/paramountplus/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: Studio Universal
+categoria: Filmes e Séries
+logo: https://img.faz-o-eli.online/studiouniversal.png
+
+fonte: https://live.lixe.net/hls/g8/STUDIO%20UNIVERSAL%20HD%20TV/index.m3u8
+qualidade: HD
+fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/studiouniversal/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: Gloob
+categoria: Infantil
+logo: https://img.faz-o-eli.online/gloob.png
+
+fonte: https://live.lixe.net/hls/g7/GLOOB%20HD%20TV/index.m3u8
+qualidade: HD
+fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/gloob/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: Gloobinho
+categoria: Infantil
+logo: https://logos.imperioapps.top/GLOBINHO.png
+
+fonte: https://live.lixe.net/hls/g8/GLOOBINHO%20TV/index.m3u8
+qualidade: HD
+fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/gloobinho/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: TV Rá Tim Bum
+categoria: Infantil
+logo: https://logos.imperioapps.top/TV_RA_TIM_BUM.png
+
+fonte: https://live.lixe.net/hls/g7/Ra%20Tim%20Bum%20TV/index.m3u8
+qualidade: HD
+fonte: https://eitvplay.appmembers.com.br/event47/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/tvratimbum/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: TVE Bahia
+categoria: TV Aberta
+logo: http://i.imgur.com/IWGyp65.jpeg
+
+fonte: https://live.lixe.net/hls/g8/TVE%20Bahia%20Mob/index.m3u8
+qualidade: HD
+fonte: https://eitvplay.appmembers.com.br/event116/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+fonte: http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+qualidade: FHD · 1920x1080
+
+canal: Food Network
+categoria: Variedades
+logo: https://img.faz-o-eli.online/foodnetwork.png
+
+fonte: https://live.lixe.net/hls/g8/Food%20Network%20HD%20TV/index.m3u8
+qualidade: HD
+fonte: https://eitvplay.appmembers.com.br/event53/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/foodnetwork/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: 24H Naruto Clássico
+categoria: 24 Horas
+logo: https://img.faz-o-eli.online/24h.png
+
+fonte: https://jmp2.uk/plu-5f6df5a173d7340007c559f7.m3u8
+qualidade: HD · 1280x720
+
+canal: Discovery World
+categoria: Documentários
+logo: https://img.faz-o-eli.online/discoveryworld.png
+
+fonte: https://live.lixe.net/hls/g5/DISCOVERY%20WORLD%20TV/index.m3u8
+qualidade: HD
+fonte: https://eitvplay.appmembers.com.br/event41/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/discoveryworld/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: CazeTV 1
+categoria: Esportes
+logo: https://img.faz-o-eli.online/cazetv.png
+
+fonte: https://eitvplay.appmembers.com.br/event55/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: FHD · 1920x1080
+fonte: https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/playlist.m3u8
+qualidade: FHD · 1920x1080
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/cazetv/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: CazeTV 2
+categoria: Esportes
+logo: https://img.faz-o-eli.online/cazetv.png
+
+fonte: https://live.lixe.net/hls/g3/CazeTV%202%20TV/index.m3u8
+qualidade: HD
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/cazetv2/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: SportyNet+ 1
+categoria: Esportes
+logo: https://img.faz-o-eli.online/sportynet.png
+
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/sportynet1/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: SportyNet+ 2
+categoria: Esportes
+logo: https://img.faz-o-eli.online/sportynet.png
+
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/sportynet2/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: SportyNet+ 3
+categoria: Esportes
+logo: https://img.faz-o-eli.online/sportynet.png
+
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/sportynet3/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: Globo ES
+categoria: TV Aberta
+logo: https://img.faz-o-eli.online/globosp.png
+
+fonte: https://net11.sattvgo.com.br/GLOBO_ES/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
+
+canal: Globo RJ
+categoria: TV Aberta
+logo: https://img.faz-o-eli.online/globorj.png
+
+fonte: https://live.lixe.net/hls/g5/GLOBO%20RJ%20HD%20TV/index.m3u8
+qualidade: HD
+fonte: https://net11.sattvgo.com.br/GLOBO_RIO/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
+fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/globorj/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: Globo RS
+categoria: TV Aberta
+logo: https://img.faz-o-eli.online/globosp.png
+
+fonte: https://live.lixe.net/hls/g5/GLOBO%20RS%20HD%20TV/index.m3u8
+qualidade: HD
+fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/globors/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: Record MG
+categoria: TV Aberta
+logo: https://img.faz-o-eli.online/record.png
+
+fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/recordmg/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: Record RJ
+categoria: TV Aberta
+logo: https://img.faz-o-eli.online/record.png
+
+fonte: https://gvtelecom.satlabscloud.com.br/RECORD_RIO/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
+fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/recordrj/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: CazeTV 3
+categoria: Esportes
+logo: https://img.faz-o-eli.online/cazetv.png
+
+fonte: https://live.lixe.net/hls/g3/CazeTV%203%20TV/index.m3u8
+qualidade: HD
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/cazetv3/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: Globo DF
+categoria: TV Aberta
+logo: https://img.faz-o-eli.online/globosp.png
+
+fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/globodf/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: Globo MG
+categoria: TV Aberta
+logo: https://img.faz-o-eli.online/globosp.png
+
+fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/globomg/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: SportyNet
+categoria: Esportes
+logo: https://img.faz-o-eli.online/sportynet.png
+
+fonte: https://live.lixe.net/hls/g6/Sportynet%20TV/index.m3u8
+qualidade: HD
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/sportynet/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: Paramount + 4
+categoria: Variedades
+logo: https://vipcanais.net/images/paramountplus.png
+
+fonte: https://live.lixe.net/hls/g1/Paramount%2B%204%20TV/index.m3u8
+qualidade: HD
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/paramountplus04/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: Anime Channel TV
+categoria: Infantil
+logo: https://i.imgur.com/eHw2M6p.png
+
+fonte: https://stmv2.painelvideocast.com.br/animetv/animetv/playlist.m3u8
+qualidade: SD · 640x360
+
+canal: Otaku Sign TV
+categoria: Infantil
+logo: https://i.imgur.com/eHw2M6p.png
+
+fonte: https://eitvplay.appmembers.com.br/event178/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: FHD · 1920x1080
+fonte: https://stmv1.srvif.com/anime/anime/playlist.m3u8
+qualidade: SD · 1024x576
+
+canal: Geekdot
+categoria: Infantil
+logo: https://i.imgur.com/jML1u4O.png
+
+fonte: https://stream.ichibansys.com:3764/hybrid/play.m3u8
+qualidade: HD · 1280x720
+
+canal: NBX TV Kids
+categoria: Infantil
+logo: https://i.imgur.com/SRX6EPY.png
+
+fonte: https://stmv4.voxtvhd.com.br/bnxkids/bnxkids/playlist.m3u8
+qualidade: FHD · 1920x1080
+
+canal: SBC Kids
+categoria: Infantil
+logo: https://i.imgur.com/SRX6EPY.png
+
+fonte: https://video01.brascast.com/rede1220/rede1220/playlist.m3u8
+qualidade: FHD · 1920x1080
+
+canal: Rede Crianças
+categoria: Infantil
+logo: https://i.imgur.com/SRX6EPY.png
+
+fonte: https://video08.logicahost.com.br/kanucatv/kanucatv/playlist.m3u8
+qualidade: HD · 1280x720
+
+canal: Kuriakos Kids
+categoria: Infantil
+logo: https://i.imgur.com/SRX6EPY.png
+
+fonte: https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
+qualidade: FHD · 1920x1080
+
+canal: Gospel Cartoon
+categoria: Infantil
+logo: https://i.imgur.com/yxjPno5.png
+
+fonte: https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+qualidade: SD · 640x360
+
+canal: Jetsons TV
+categoria: Infantil
+logo: https://i.imgur.com/PZcTfqV.png
+
+fonte: https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
+qualidade: SD · 640x480
+
+canal: 24H Os Smurfs
+categoria: 24 Horas
+logo: https://img.faz-o-eli.online/24h.png
+
+fonte: https://d144py1prrd7ns.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-affg2ev32s0dq/smrfe.m3u8
+qualidade: HD · 1280x720
+
+canal: FIFA+ Português
+categoria: Esportes
+logo: https://mondrian.claro.com.br/channels/inverse/fifa-plus.png
+
+fonte: https://c2657533.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UGxleC1icl9GSUZBUGx1c1BvcnR1Z3Vlc2VfSExT/playlist.m3u8
+qualidade: SD · 384x216
+fonte: https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
+qualidade: SD
+
+canal: Runtime Ação
+categoria: Filmes e Séries
+logo: https://i.imgur.com/3rM8nL2.png
+
+fonte: https://run-rt-ra.otteravision.com/run/rt_ra/rt_ra_720.m3u8
+qualidade: HD · 1280x720
+
+canal: Top TV
+categoria: Músicas
+logo: https://i.imgur.com/aKbHjFO.png
+
+fonte: https://eitvplay.appmembers.com.br/event21/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: FHD · 1920x1080
+fonte: https://isaocorp.cloudecast.com/toptv/index.m3u8
+qualidade: FHD · 1920x1080
+
+canal: MovieSphere Brazil
+categoria: Filmes e Séries
+logo: https://i.imgur.com/c6uFj7A.png
+
+fonte: https://amg00353-amg00353c29-plex-us-3205.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00353-lionsgatetvfast-moviespherebrazil-plexus/playlist.m3u8
+qualidade: FHD · 1920x1080
+
+canal: Trace Urban
+categoria: Músicas
+logo: https://i.imgur.com/DLIbUMx.png
+
+fonte: https://amg01076-lightningintern-traceurban-xiaomi-m78n3.amagi.tv/playlist/amg01076-lightningintern-traceurban-xiaomi/playlist.m3u8
+qualidade: HD · 1280x720
+
+canal: Sony One Classics
+categoria: Filmes e Séries
+logo: https://mondrian.claro.com.br/channels/inverse/sony-movies.png
+
+fonte: https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
+qualidade: HD · 1280x720
+
+canal: Classique Faroeste
+categoria: Filmes e Séries
+logo: https://i.imgur.com/c6uFj7A.png
+
+fonte: https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8
+qualidade: HD · 1280x720
+
+canal: Loading TV
+categoria: Infantil
+logo: https://i.imgur.com/R0aflu1.png
+
+fonte: https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+qualidade: HD · 1280x720
+
+canal: Retro Music
+categoria: Músicas
+logo: https://i.imgur.com/pyOjdZs.png
+
+fonte: https://newstream.mediawork.cz/retrotv/smil:retrotv_new.smil/playlist.m3u8
+qualidade: HD · 1280x720
+
+canal: Now Rock
+categoria: Músicas
+logo: https://i.imgur.com/GuM4GnX.png
+
+fonte: https://lightning-now90s-rakuten.amagi.tv/playlist.m3u8
+qualidade: HD · 1280x720
+
+canal: TV Clássicos
+categoria: Filmes e Séries
+logo: https://i.imgur.com/c6uFj7A.png
+
+fonte: https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8
+qualidade: HD · 1280x720
+
+canal: CazeTV 4
+categoria: Esportes
+logo: https://vipcanais.net/images/cazetv.png
+
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/cazetv4/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: Disney+ 07
+categoria: Esportes
+logo: https://vipcanais.net/images/disneyplus.png
+
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/disneyplus07/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: Disney+ 08
+categoria: Esportes
+logo: https://vipcanais.net/images/disneyplus.png
+
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/disneyplus08/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: Disney+ 03
+categoria: Esportes
+logo: https://1.embedcanaisdetv.com/images/disneyplus.png
+
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/disneyplus03/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: Disney+ 05
+categoria: Esportes
+logo: https://1.embedcanaisdetv.com/images/disneyplus.png
+
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/disneyplus05/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: Disney+ 06
+categoria: Esportes
+logo: https://1.embedcanaisdetv.com/images/disneyplus.png
+
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/disneyplus06/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: AMC Séries
+categoria: Filmes e Séries
+logo: https://vipcanais.net/images/amcseries.png
+
+fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/amcseries/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: Record DF
+categoria: TV Aberta
+logo: https://1.embedcanaisdetv.com/images/record.png
+
+fonte: https://net11.sattvgo.com.br/RECORD_DF/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
+fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/recorddf/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: Record ES
+categoria: TV Aberta
+logo: https://1.embedcanaisdetv.com/images/record.png
+
+fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/recordes/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: Disney+ 04
+categoria: Esportes
+logo: https://1.embedcanaisdetv.com/images/disneyplus.png
+
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/disneyplus04/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: MTV
+categoria: Variedades
+logo: https://img.faz-o-eli.online/mtv.png
+
+fonte: https://jmp2.uk/plu-5f1212fb81e85c00077ae9ef.m3u8
+qualidade: HD · 1280x720
+
+canal: Arte 1
+categoria: Variedades
+logo: https://mondrian.claro.com.br/channels/inverse/arte1.png
+
+fonte: https://live.lixe.net/hls/g8/Arte%201%20HD%20TV/index.m3u8
+qualidade: HD
+fonte: https://eitvplay.appmembers.com.br/event20/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+fonte: https://video37.mais.uol.com.br/live/292.m3u8
+qualidade: HD · 1280x720
+
+canal: HGTV
+categoria: Variedades
+logo: https://img.faz-o-eli.online/hgtv.png
+
+fonte: https://live.lixe.net/hls/g7/HGTV%20HD%2B%20TV/index.m3u8
+qualidade: HD
+fonte: https://eitvplay.appmembers.com.br/event38/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+
+canal: Record
+categoria: TV Aberta
+logo: https://mondrian.claro.com.br/channels/inverse/record-tv.png
+
+fonte: https://live.lixe.net/hls/g2/Record%20HD%20TV/index.m3u8
+qualidade: HD
+fonte: https://eitvplay.appmembers.com.br/event96/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+
+canal: TCM
+categoria: Filmes e Séries
+logo: https://img.faz-o-eli.online/tcm.png
+
+fonte: https://live.lixe.net/hls/g1/TCM%20TV/index.m3u8
+qualidade: HD
+fonte: https://eitvplay.appmembers.com.br/event73/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+
+canal: TLC
+categoria: Variedades
+logo: https://img.faz-o-eli.online/tlc.png
+
+fonte: https://live.lixe.net/hls/g5/TLC%20HD%20TV/index.m3u8
+qualidade: HD
+fonte: https://eitvplay.appmembers.com.br/event19/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+
+canal: E!
+categoria: Variedades
+logo: https://mondrian.claro.com.br/channels/inverse/e!.png
+
+fonte: https://live.lixe.net/hls/g5/E%21%20TV/index.m3u8
+qualidade: HD
+fonte: https://video49.mais.uol.com.br/live/4503.mpd
+qualidade: HD · 1280x720
+chave: d021c9ff8ab94c1a583a0f5f2cc82725:7de3fcc29e3194b9c65282a42cb7bec6
+
+canal: Sabor & Arte
+categoria: Variedades
+logo: https://mondrian.claro.com.br/channels/inverse/sabor-e-arte.png
+
+fonte: https://live.lixe.net/hls/g5/Sabor%20%26%20Arte%20TV/index.m3u8
+qualidade: HD
+fonte: https://eitvplay.appmembers.com.br/event118/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+fonte: https://video37.mais.uol.com.br/live/3066.m3u8
+qualidade: HD · 1280x720
+
+canal: Agro Canal
+categoria: TV Aberta
+logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvLNHpFs7a5h4xaYyjbk7Kp3EIHYRIdrKMMFyiTkVeeg&s=10
+
+fonte: https://eitvplay.appmembers.com.br/event159/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+
+canal: Chef TV
+categoria: TV Aberta
+logo: https://upload.wikimedia.org/wikipedia/commons/1/1c/LOGOCHEFTV.jpg?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original
+
+fonte: https://eitvplay.appmembers.com.br/event123/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+
+canal: CNBC
+categoria: Notícias
+logo: https://www.portaldosjornalistas.com.br/wp-content/uploads/2024/09/CNBC-logo.webp
+
+fonte: https://eitvplay.appmembers.com.br/event45/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+
+canal: EuroNews
+categoria: Notícias
+logo: https://yt3.googleusercontent.com/mzF9dxkU1hpd_zUYk626Cz_GzyzMUjFjhbVauEiKazpyuOtOx8gRhiiLWpsdeVaD2TTFOBE=s900-c-k-c0x00ffffff-no-rj
+
+fonte: https://eitvplay.appmembers.com.br/event141/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+
+canal: Fashion TV
+categoria: Variedades
+logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYNcM2WEol3BCV29O2ecQ4rbPC6pgSDwmIT7Q3ySajjHDA3oHRfh0ikOez&s=10
+
+fonte: https://live.lixe.net/hls/g6/Fashion%20TV%20TV/index.m3u8
+qualidade: HD
+fonte: https://eitvplay.appmembers.com.br/event52/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+
+canal: Film&Arts
+categoria: Filmes e Séries
+logo: https://static.guiadetv.com/channel/fiUIa3E6ZmxBMqxMjafkkZKkqzoZX83NOgeEZ9BR.png
+
+fonte: https://live.lixe.net/hls/g7/Film%20%26%20Arts%20HD%20TV/index.m3u8
+qualidade: HD
+fonte: https://eitvplay.appmembers.com.br/event143/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+
+canal: Hallo Anime
+categoria: Infantil
+logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE7ADMIKcoWq4aOfpDE2I_NGVWNksEjU8Vwx8eRJKtrg&s=10
+
+fonte: https://eitvplay.appmembers.com.br/event120/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+
+canal: Hallo Classic
+categoria: Filmes e Séries
+logo: https://www.rlnetpoa.com.br/images/canais/Hallo!%20Classic.png
+
+fonte: https://eitvplay.appmembers.com.br/event161/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+
+canal: Hallo Doc
+categoria: Documentários
+logo: https://www.rlnetpoa.com.br/images/canais/Hallo!%20Doc.png
+
+fonte: https://eitvplay.appmembers.com.br/event162/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+
+canal: Hallo Movies
+categoria: Filmes e Séries
+logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1UPbYPBw3D5eCwMYU_vWopUFh2WpngPheKCiUFnTqqg&s
+
+fonte: https://eitvplay.appmembers.com.br/event156/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+
+canal: Hallo Series
+categoria: Filmes e Séries
+logo: https://www.rlnetpoa.com.br/images/canais/Hallo!%20S%C3%A9ries.png
+
+fonte: https://eitvplay.appmembers.com.br/event164/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+
+canal: Leo & Lully TV
+categoria: Infantil
+logo: https://yt3.googleusercontent.com/ytc/AIdro_mNFNHKsUigLPQnS8S2soUnUSTBLCMpm0WD89iDmER7=s900-c-k-c0x00ffffff-no-rj
+
+fonte: https://eitvplay.appmembers.com.br/event50/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+
+canal: Lifetime
+categoria: Filmes e Séries
+logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgSpdXfXMnvjc83HGXzceyxQxaH7P3ZSaJXZBQdhW8GcsEjkS7MEPDdGU&s=10
+
+fonte: https://live.lixe.net/hls/g1/LIFE%20TIME%20TV/index.m3u8
+qualidade: HD
+fonte: https://eitvplay.appmembers.com.br/event62/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+
+canal: Sony Movies
+categoria: Filmes e Séries
+logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlvVNvA9xkaJssacSJ4G9lPoD_iR7NQoR30kArHG_OYg&s=10
+
+fonte: https://eitvplay.appmembers.com.br/event147/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+
+canal: BIS
+categoria: Variedades
+logo: http://www.fontedecanais.me/logos/canais/bis.png
+
+fonte: https://live.lixe.net/hls/g6/BIS%20HD%20TV/index.m3u8
+qualidade: HD
+
+canal: Band RJ
+categoria: TV Aberta
+logo: https://img.faz-o-eli.online/band.png
+
+fonte: https://live.lixe.net/hls/g1/BAND%20RJ%20TV/index.m3u8
+qualidade: HD
+
+canal: Curta
+categoria: Documentários
+logo: https://img.faz-o-eli.online/curta.png
+
+fonte: https://live.lixe.net/hls/g5/Curta%20HD%20TV/index.m3u8
+qualidade: HD
+
+canal: SBT RJ
+categoria: TV Aberta
+logo: https://img.faz-o-eli.online/sbt.png
+
+fonte: https://live.lixe.net/hls/g5/SBT%20RJ%20TV/index.m3u8
+qualidade: HD
+
+canal: UFC Fight Pass
+categoria: PPV
+logo: https://img.faz-o-eli.online/ufcfightpass.png
+
+fonte: https://live.lixe.net/hls/g2/UFC%20Fight%20Pass%20TV/index.m3u8
+qualidade: HD
+
+canal: Disney+ 02
+categoria: Esportes
+logo: https://1.embedcanaisdetv.com/images/disneyplus.png
+
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/disneyplus02/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: N Sports
+categoria: Esportes
+logo: https://1.embedcanaisdetv.com/images/nsports.png
+
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/nsports/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: Paramount + 02
+categoria: Esportes
+logo: https://1.embedcanaisdetv.com/images/paramountplus.png
+
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/paramountplus02/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: Paramount+ 03
+categoria: Esportes
+logo: https://vipcanais.net/images/paramountplus.png
+
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/paramountplus03/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
